@@ -1,8 +1,5 @@
 ### Hi there 👋, I'm Ayusha Singh
 
-<!--
-**feak-fuzz/feak-fuzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 - 😎 Google's Developer Student Club Lead at PDPM IIITDM Jabalpur
 - 🔭 I’m currently working with Frotend web development.
@@ -12,4 +9,4 @@ Here are some ideas to get you started:
 
 
 - ⚡ Fun fact: Like exploring and learning new things currently writing blogs.
--->
+
