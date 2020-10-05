@@ -21,12 +21,8 @@
 <h3 align="left">Connect with me:</h3>
 <a href="https://dev.to/dev.to/feakfuzz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.to/feakfuzz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ayusha-singh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ayusha-singh" height="30" width="40" /></a>
-<a href="https://fb.com/ayusha.singh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ayusha.singh" height="30" width="40" /></a>
 <a href="https://instagram.com/mind_going_nowhere" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mind_going_nowhere" height="30" width="40" /></a>
 <a href="https://medium.com/@ayusha_singh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ayusha_singh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ayushasingh10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ayushasingh10" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/littleayusha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="littleayusha" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/<ayusha_singh>/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="<ayusha_singh>/profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
