@@ -1,23 +1,37 @@
-### Hi there 👋, I'm Ayusha Singh
+<h1 align="center">Hi 👋, I'm Ayusha Singh</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=feak-fuzz" alt="feak-fuzz" /> </p>
 
-<a href="https://www.linkedin.com/in/ayusha-singh/" rel="nofollow">
-  <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://camo.githubusercontent.com/b65faae8871ebbdb99790f2644ea7f3c89800b0c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width:100%;">
-</a>
+- 🌱 I’m currently learning **ReactJS**
 
-<a href="https://www.instagram.com/mind_going_nowhere/" rel="nofollow">
-  <img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://camo.githubusercontent.com/8ea1156d8ac160172cbef7a54a19bad16a73ebe4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="max-width:100%;">
-</a>
+- 📝 I regulary write articles on [https://medium.com/@Ayusha_Singh](https://medium.com/@Ayusha_Singh)
 
-<br>
+- 💬 Ask me about **react, html, css, js, nodeJs, bootstrap**
 
-- 😎 Google's Developer Student Club Lead at PDPM IIITDM Jabalpur
-- 🌱 I currently know HTML, CSS, JS, React.Js, NodeJS and Bootstrap.
-- 💬 Ask me about anything and I will be glad to learn and help.
-- 📫 How to reach me: ayushasingh10@gmail.com
-- ⚡ Fun fact: Like exploring and learning new things currently: writing blogs.
+- 📫 How to reach me **ayushasingh10@gmail.com**
 
-<br>
+- ⚡ Fun fact **I like exploring new things**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
+<p align="left">
+<h3 align="left">Connect with me:</h3>
+<a href="https://dev.to/dev.to/feakfuzz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.to/feakfuzz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayusha-singh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ayusha-singh" height="30" width="40" /></a>
+<a href="https://fb.com/ayusha.singh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ayusha.singh" height="30" width="40" /></a>
+<a href="https://instagram.com/mind_going_nowhere" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mind_going_nowhere" height="30" width="40" /></a>
+<a href="https://medium.com/@ayusha_singh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ayusha_singh" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ayushasingh10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ayushasingh10" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/littleayusha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="littleayusha" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/<ayusha_singh>/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="<ayusha_singh>/profile" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feak-fuzz&layout=compact" alt="feak-fuzz" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=feak-fuzz&show_icons=true" alt="feak-fuzz" /></p>
