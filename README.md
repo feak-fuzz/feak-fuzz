@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ayusha Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hello there👋, I'm Ayusha Singh</h1>
+<h3 align="center">Just an average person decorating the pages of her life.😁</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feak-fuzz" alt="feak-fuzz" /> </p>
 
