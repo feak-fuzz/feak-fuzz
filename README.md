@@ -7,11 +7,13 @@
 
 - 📝 I regulary write articles on [https://medium.com/@Ayusha_Singh](https://medium.com/@Ayusha_Singh)
 
-- 💬 Ask me about **react, html, css, js, nodeJs, bootstrap**
+- 💬 Ask me about **react, html, css, js, nodeJs, bootstrap.**
 
 - 📫 How to reach me **ayushasingh10@gmail.com**
 
-- ⚡ Fun fact **I like exploring new things**
+- ⚡ Fun fact about me: **I like exploring new things.**
+
+- 🧸 Leisure time: **Likes basketball 🏀, swimming 🏊‍♀️ and currently learning football ️⚽️.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
