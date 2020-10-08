@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feak-fuzz" alt="feak-fuzz" /> </p>
 
-- 🌱 I’m currently learning **ReactJS and Backend**
+- 🌱 I’m currently learning **ReactJS**
 
 - 📝 I regulary write articles on [https://medium.com/@Ayusha_Singh](https://medium.com/@Ayusha_Singh)
 
