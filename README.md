@@ -22,7 +22,7 @@
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/ayusha-singh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ayusha-singh" height="30" width="40" /></a>
-<a href="https://instagram.com/mind_going_nowhere" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mind_going_nowhere" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ayusha_.singh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mind_going_nowhere" height="30" width="40" /></a>
 <a href="https://medium.com/@ayusha_singh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ayusha_singh" height="30" width="40" /></a>
 </p>
 
